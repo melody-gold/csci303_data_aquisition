@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project,developed for my CSCI303 course, explores techniques for data aquisitionusing both structured and unstructured data sources for use in data science models. It demonstrates methods for collecitng, processing, and organizing data to support data science workflows.
+This project, developed for my CSCI303 course, explores techniques for data aquisitionusing both structured and unstructured data sources for use in data science models. It demonstrates methods for collecitng, processing, and organizing data to support data science workflows.
 
 ## Key Features
 
