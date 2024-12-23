@@ -18,6 +18,15 @@ This project,developed for my CSCI303 course, explores techniques for data aquis
 - Peforms exploratory data analysis.
 - Parses, cleans, and prepares data for further analysis.
 
+### Data Files
+- `employees.txt` - contains sample employee data used for testing text file parsing.
+- `movies.json` - Stores movie data in JSON format, demonstrating JSON parsing and data extraction.
+- `employees.db` - SQLite database containing structures employee data for SQL queries and database integration.
+- `review1.txt`, `review2.txt`, `review3.txt` - Sample text files used for file reading and processing exercises.
+  
+### API Integration
+- The project fetches real-time data from the SpaceX API using HTTP requests, demonstrating how to handle RESTful APIs, parse JSON responses, and integrate external data into workflows.
+
 ## Technologies Used
 
 **Programming Language:** Python
