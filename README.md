@@ -1,5 +1,7 @@
 # CSCI303: Data Science - Data Aquisition Project
 
+#### *Melody Goldanloo*
+
 ## Overview
 
 This project, developed for my CSCI303 course, explores techniques for data aquisitionusing both structured and unstructured data sources for use in data science models. It demonstrates methods for collecitng, processing, and organizing data to support data science workflows.
@@ -36,3 +38,7 @@ This project, developed for my CSCI303 course, explores techniques for data aqui
 - `requests` - API integration.
 - `os` - File and directory handling.
 - `sqlite3` - Database interaction.
+
+## Acknowledgements
+
+This project was developed as part of CSCI303 - Data Science at the Colorado School of Mines. Special thanks to Professor Morgan Cox and Dr. Wendy Fisher for guidance and course resources and materials.
